@@ -1,0 +1,23 @@
+<view class="view">
+  <image class="logo" src="../../images/toilet.png"></image>
+  <view class="version">V 2.0</view>
+  <view class="title">小明带你找厕所</view>
+  <view class="zan-panel">
+    <view class="zan-cell" bindtap="doAuthor">
+      <view class="zan-cell__bd">github</view>
+      <view class="zan-cell__ft">https://github.com/liumingmusic</view>
+    </view>
+    <view class="zan-cell" bindtap="doFunction">
+      <view class="zan-cell__bd">blog</view>
+      <view class="zan-cell__ft">http://liumingmusic.coding.me</view>
+    </view>
+    <view class="zan-cell" bindtap="doHelp">
+      <view class="zan-cell__bd">csdn</view>
+      <view class="zan-cell__ft">http://blog.csdn.net/liumingm_music</view>
+    </view>
+    <view class="zan-cell" bindtap="doHelp">
+      <view class="zan-cell__bd">email</view>
+      <view class="zan-cell__ft">liuming_music@163.com</view>
+    </view>
+  </view>
+</view>

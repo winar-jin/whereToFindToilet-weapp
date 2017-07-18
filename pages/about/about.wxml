@@ -1,0 +1,18 @@
+<view class="view">
+  <image class="logo" src="../../images/toilet.png"></image>
+  <view class="version">V 2.0</view>
+  <view class="zan-panel">
+    <view class="zan-cell zan-cell--access" bindtap="doAuthor">
+      <view class="zan-cell__bd">关于作者</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+    <view class="zan-cell zan-cell--access" bindtap="doFunction">
+      <view class="zan-cell__bd">功能列表</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+    <view class="zan-cell zan-cell--access" bindtap="doHelp">
+      <view class="zan-cell__bd">帮助</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+  </view>
+</view>

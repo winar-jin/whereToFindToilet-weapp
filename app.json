@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/location/location",
+    "pages/about/about",
+    "pages/location-detail/location",
+    "pages/author/author",
+    "pages/function/function",
+    "pages/help/help"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#262930",
+    "navigationBarTitleText": "where to find toilet",
+    "navigationBarTextStyle": "#fff",
+    "enablePullDownRefresh": true
+  }
+}

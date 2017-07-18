@@ -1,0 +1,25 @@
+.view {
+  text-align: center;
+  height: calc(100vh);
+  width: calc(100vw);
+  background-color: #f9f9f9;
+}
+
+.logo {
+  width: 200rpx;
+  height: 200rpx;
+  margin-top: 70rpx;
+}
+
+.version {
+  font-size: 25rpx;
+  margin-bottom: 80rpx;
+}
+
+.zan-cell__bd {
+  text-align: left;
+}
+
+.zan-cell:active {
+  background-color: #f9f9f9;
+}
